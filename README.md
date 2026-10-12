@@ -34,10 +34,10 @@ Displays the image gallery with its layout, navigation, and category filters.
 Demonstrates the image search and category filtering functionality.
 
 <p align="center">
-  <img src="screenshots/filtered-gallery1.png" width="800" alt="Image Gallery with Search and Category Filters">
+  <img src="screenshots/filtered-gallery2.png" width="800" alt="Image Gallery with Search and Category Filters">
 </p>
 <p align="center">
-  <img src="screenshots/filtered-gallery2.png" width="800" alt="Image Gallery with Search and Category Filters">
+  <img src="screenshots/filtered-gallery1.png" width="800" alt="Image Gallery with Search and Category Filters">
 </p>
 
 ### 3. Favorite Images
