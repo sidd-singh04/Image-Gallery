@@ -69,6 +69,4 @@ Demonstrates the gallery's dark theme.
 ## 👨‍💻 Author
 
 **Siddharth Singh**
-
-* GitHub: [sidd-singh04](https://github.com/sidd-singh04)
-* Live Project: [Image Gallery](https://codealpha-tasks-image-gallery.vercel.app/)
+GitHub: [@sidd-singh04](https://github.com/sidd-singh04)
